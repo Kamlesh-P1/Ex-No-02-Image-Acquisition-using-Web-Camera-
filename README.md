@@ -1,9 +1,9 @@
 # Image Acquisition Using Web Camera
 
-**Name:** KAMLESH P
+# **Name:** KAMLESH P
 
 
-**Register Number:** 212225240067 
+# **Register Number:** 212225240067 
 
 ## Aim
 
